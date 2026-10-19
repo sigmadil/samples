@@ -1,0 +1,16 @@
+# Rapport hebdomadaire — semaine du {{date_debut}} au {{date_fin}}
+
+## Faits marquants
+- …
+
+## Fonctionnalités
+- …
+
+## Corrections
+- …
+
+## Technique et documentation
+- …
+
+## Points d'attention pour la semaine prochaine
+- …
